@@ -8,7 +8,7 @@
 * Can be used by anybody
 {Just use a normal computer to open the portfolio}
 ## Known Bugs
-{All the buttons on the top of the desktop are not workin }
+{All the buttons on the top of the desktop are not working }
 ## Technologies Used
 {The languge used was only HTML and CSS}
 ## Support and contact details
