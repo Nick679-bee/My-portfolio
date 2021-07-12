@@ -2,16 +2,15 @@ body{
     margin:0;
     padding:0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: url(../image/download.jpeg);
-    background-size: 100%;
     position: relative;
     min-height: 100vh;
     align-items: center;
+    
 }
 h2
 {
     font-size: 3cm;
-    color: white;
+    color: rgb(252, 246, 246);
     font-weight: bold;
 }
 h2 span{
@@ -24,7 +23,7 @@ p{
 }
 .btn{
     position: relative;
-    background: lavenderblush;
+    background: rgb(32, 20, 201);
     display: inline-block
     
 }
@@ -38,7 +37,7 @@ header{
     align-items: center;
 }
 header .logo{
-    color: lavenderblush;
+    color: rgb(240, 249, 255);
     font-size: 24px;
     font-weight: 700;
     letter-spacing: 2px;
@@ -54,15 +53,19 @@ header ul li a{
     position: relative;
     display: inline-block;
     margin: 0 15px;
-    color: white;
+    color: rgb(31, 219, 78);
 }
 .heading{
     width: 100%;
     text-align: center;
     margin-bottom: 30px;
-    color: white;
+    color: rgb(217, 12, 224);
 }
 .content{
     display: flex;
     justify-content: space-between;
+}
+.background{
+    background-image: url(/image/pexels-photo-3393354.jpeg);
+    background-size: 100%;
 }
