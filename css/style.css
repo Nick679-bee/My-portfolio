@@ -2,7 +2,8 @@ body{
     margin:0;
     padding:0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: green;
+    background-image: url(../image/zac-durant-_6HzPU9Hyfg-unsplash.jpg);
+    background-size: 100%;
     position: relative;
     min-height: 100vh;
     align-items: center;
