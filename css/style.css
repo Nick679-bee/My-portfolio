@@ -10,7 +10,7 @@ body{
 h2
 {
     font-size: 3cm;
-    color: rgb(252, 246, 246);
+    color: rgb(56, 56, 211);
     font-weight: bold;
 }
 h2 span{
@@ -37,7 +37,7 @@ header{
     align-items: center;
 }
 header .logo{
-    color: rgb(240, 249, 255);
+    color: rgb(21, 136, 212);
     font-size: 24px;
     font-weight: 700;
     letter-spacing: 2px;
